@@ -1,7 +1,7 @@
 {
   "name": "vuex-01",
   "version": "1.0.0",
-  "description": "Vuex test project",
+  "description": "Vuex project",
   "author": "Gassio <greekidis@gmail.com>",
   "private": true,
   "scripts": {
